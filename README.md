@@ -1,1 +1,1 @@
-Programa que realiza la busqueda especifica de varios numeros de serie en archivos dentro de varias carpetas, con forme a los parametros establecidos.
+Programa que realiza la busqueda especifica de varios numeros de serie en archivos dentro de varias carpetas, conforme a los parametros establecidos. Y los muestra en una tabla, mostrando la fecha actual, el tiempo de ejecucion que tomo el programa para realizar y los archivos encontrados.
